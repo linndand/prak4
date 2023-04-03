@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\prak4\prak4\bin\Debug\net6.0\prak4.exe
+D:\UAY\smt02\Pemrograman\prak4\prak4\bin\Debug\net6.0\prak4.deps.json
+D:\UAY\smt02\Pemrograman\prak4\prak4\bin\Debug\net6.0\prak4.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\prak4\prak4\bin\Debug\net6.0\prak4.dll
+D:\UAY\smt02\Pemrograman\prak4\prak4\bin\Debug\net6.0\prak4.pdb
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.dll
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\refint\prak4.dll
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.pdb
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\prak4.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\prak4\prak4\obj\Debug\net6.0\ref\prak4.dll
